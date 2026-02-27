@@ -26,8 +26,6 @@ The frontend communicates with the backend API to fetch and update data.
 
 ## 🖼️ Screenshots  
 
-> Add your screenshots to `./screenshots/` and they will show here:
-
 ![User Management](./screenshots/image1.png)  
 ![Browse Equipment](./screenshots/image2.png)  
 ![Admin Dashboard](./screenshots/image3.png)
